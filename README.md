@@ -1,5 +1,7 @@
 # Jiffy
 
+![jiffy](https://github.com/reisir/jiffy/assets/93496808/218b4c54-6b2c-4b70-9d45-e1239cd9109e)
+
 Rainmeter skin to display any image, animated or not. Drag n Drop an image into any instance of Jiffy to create a new one.
 
 # Prerequisites
